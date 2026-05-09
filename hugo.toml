@@ -1,0 +1,30 @@
+baseURL = "https://isaaclainey-jpg.github.io/the-local-lab/"
+languageCode = "en-us"
+title = "The Local Lab"
+theme = "PaperMod"
+
+[params]
+  description = "Practical guides, productivity tools, and curated finds for everyday life."
+  author = "Isaac Lainey"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "Welcome to The Local Lab"
+  Content = "Practical guides, productivity tools, and curated finds for everyday life. Updated 3x daily."
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
