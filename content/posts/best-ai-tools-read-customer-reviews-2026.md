@@ -55,10 +55,10 @@ Practical guides, productivity tools, and curated finds. 3 emails per week, no s
 
 ---
 
-🚀 **Productivity System PDF Guide**
+🚀 **Freelancer Toolkit 2026**
 
-Complete framework for deep work, time blocking, and habit tracking.
+Complete Excel system to manage clients, projects, invoices, time tracking, and taxes. Includes 8-section PDF contracts pack.
 
-[**Get it for $12** →](https://gumroad.com/isaaclainey)
+[**Get it for $19** →](https://laineysworkshop.gumroad.com/l/ekcrfp?utm_source=local_lab&utm_medium=article&utm_campaign=freelancer)
 
 ---

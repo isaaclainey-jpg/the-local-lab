@@ -57,10 +57,10 @@ Practical guides, productivity tools, and curated finds. 3 emails per week, no s
 
 ---
 
-🚀 **Personal Budget Excel Template**
+🚀 **Personal Budget Pro 2026**
 
-Pre-built spreadsheet to track income, expenses, savings goals. Editable and ready to use.
+17-sheet Excel template with 720 formulas, dashboard charts, monthly tracking, and 10 savings goals. Pre-filled with 3 months of example data.
 
-[**Get it for $9** →](https://gumroad.com/isaaclainey)
+[**Get it for $9** →](https://laineysworkshop.gumroad.com/l/hiksga?utm_source=local_lab&utm_medium=article&utm_campaign=budget_pro)
 
 ---
